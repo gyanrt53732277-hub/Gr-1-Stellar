@@ -1,4 +1,4 @@
-export type WalletType = 'freighter' | 'xbull' | 'albedo';
+export type WalletType = 'freighter' | 'xbull' | 'albedo'; 
 
 export interface WalletState {
   publicKey: string | null;
