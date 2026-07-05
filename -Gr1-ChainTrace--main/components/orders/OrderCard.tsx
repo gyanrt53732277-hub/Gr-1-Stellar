@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from 'next/link'; 
 import { Badge } from '../ui/Badge';
 import { stellar } from '@/lib/stellar';
 import { FiArrowRight, FiUser, FiTruck, FiSearch } from 'react-icons/fi';
