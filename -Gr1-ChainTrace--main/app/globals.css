@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  /* surfaces — clean near-black, flat elevations */
+  /* surfaces — clean near-black, flat elevations */ 
   --canvas: 9 9 11;
   --surface: 16 16 19;
   --elevated: 24 24 28;
