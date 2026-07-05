@@ -1,4 +1,4 @@
-import { render, screen } from '@testing-library/react';
+import { render, screen } from '@testing-library/react'; 
 import { Badge } from '@/components/ui/Badge';
 import { describe, it, expect } from 'vitest';
 
