@@ -31,7 +31,6 @@
 12. [CI/CD Pipeline](#-cicd-pipeline)
 13. [Local Development](#-local-development)
 14. [Roadmap](#-roadmap)
-15. [Author](#-author)
 
 ---
 
@@ -406,9 +405,3 @@ npm run dev
 - SEP-31 native integrations for off-ramping to fiat directly in the dashboard.
 
 ---
-
-## 👨‍💻 Author
-
-**BhagatWeb** — [@BhagatWeb](https://github.com/BhagatWeb)
-
-*Built for the [RiseIn Stellar dApp Development Program](https://www.risein.com/) — Level 4*
