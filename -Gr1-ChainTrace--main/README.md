@@ -47,7 +47,7 @@ Cross-border supply chains suffer from severe counterparty risks, operational op
 
 **ChainTrace** eliminates these inefficiencies by replacing legacy trade finance rails with programmable Soroban smart contracts. Buyers lock funds in an on-chain escrow vault; funds are automatically released to suppliers incrementally based on verifiable logistics milestones—no costly banking intermediaries required.
 
----
+--- 
 
 ## 🌟 Why Stellar?
 
