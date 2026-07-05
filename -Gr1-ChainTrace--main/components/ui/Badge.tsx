@@ -1,4 +1,4 @@
-import { STATUS_COLORS, STATUS_LABELS } from '@/lib/constants';
+import { STATUS_COLORS, STATUS_LABELS } from '@/lib/constants'; 
 
 interface BadgeProps {
   status: string;
